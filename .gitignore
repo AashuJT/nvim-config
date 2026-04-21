@@ -1,0 +1,3 @@
+lua/plugins/init.lua.swp
+*.lock
+.DS_Store
