@@ -1,4 +1,4 @@
-# 🐧  Aashutosh's Neovim Config (NvChad v2.5)
+# 🐧 Aashutosh's Neovim Config (NvChad v2.5)
 
 A highly customized, memory-efficient Neovim environment built on top of [NvChad](https://nvchad.com/). Optimized for **Data Science**, **Infrastructure**, and cross-platform performance between **macOS (M2 Air)** and **Linux**.
 
